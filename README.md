@@ -15,7 +15,7 @@
 
 Python engineer with 5+ years building and owning **event-driven, real-time distributed systems** — Kafka pipelines enforcing sub-350ms SLAs, Kubernetes deployments with KEDA autoscaling, and the ML/vector-search layers and React frontends that sit on top of them. A background in mechanical engineering shows up as a failure-mode-aware, constraints-first approach to software: I think in edge cases and production failure before frameworks.
 
-📍 New York / Osun, Nigeria — open to relocation, remote worldwide.
+📍 London / Osun, Nigeria — open to relocation, remote worldwide.
 
 <br>
 
