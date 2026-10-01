@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=F97316&center=true&vCenter=true&width=680&lines=Temitayo+Kayode;Python+Production+Engineer;Event-Driven+%2B+Real-Time+Distributed+Systems">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=C2410C&center=true&vCenter=true&width=680&lines=Temitayo+Kayode;Python+Production+Engineer;Event-Driven+%2B+Real-Time+Distributed+Systems">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=F97316&center=true&vCenter=true&width=680&lines=Temitayo+Kayode;Full+Stack+Engineer;React+%2B+Node.js+%2B+Python+%2B+Cloud-Native+Systems">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=C2410C&center=true&vCenter=true&width=680&lines=Temitayo+Kayode;Full+Stack+Engineer;React+%2B+Node.js+%2B+Python+%2B+Cloud-Native+Systems">
 </picture>
 
 <p>
@@ -13,7 +13,7 @@
 
 </div>
 
-Python engineer with 5+ years building and owning **event-driven, real-time distributed systems** — Kafka pipelines enforcing sub-350ms SLAs, Kubernetes deployments with KEDA autoscaling, and the ML/vector-search layers and React frontends that sit on top of them. A background in mechanical engineering shows up as a failure-mode-aware, constraints-first approach to software: I think in edge cases and production failure before frameworks.
+Full-stack engineer with 5+ years designing and shipping **end-to-end products** — React/Next.js frontends, Python/Node.js backends, Kafka pipelines, and Kubernetes deployments. A background in mechanical engineering shows up as a failure-mode-aware, constraints-first approach to software: I think in edge cases and production failure before frameworks.
 
 📍 London / Osun, Nigeria — open to relocation, remote worldwide.
 
@@ -22,10 +22,16 @@ Python engineer with 5+ years building and owning **event-driven, real-time dist
 ### 🛠️ Tech Stack
 
 <p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+</p>
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
 </p>
 <p>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka">
@@ -43,12 +49,6 @@ Python engineer with 5+ years building and owning **event-driven, real-time dist
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </p>
 
 <br>
@@ -86,7 +86,7 @@ Streamlit scouting platform ranking 20,000+ players across 36 leagues (men's and
 </tr>
 </table>
 
-**Currently building:** OrdaDelivery — a multi-vertical (food/grocery/pharmacy) delivery marketplace, as founder and sole engineer. Event-driven order lifecycle management across restaurant, driver, and customer roles with real-time state propagation. (Private repo.)
+**Currently building:** OrdaDelivery — a multi-vertical (food/grocery/pharmacy) delivery marketplace, as founder and sole engineer. Full-stack across customer, vendor, driver, and admin surfaces — React Native apps, Next.js web storefronts, and an event-driven order lifecycle backend with real-time state propagation. (Private repo.)
 
 <br>
 
@@ -126,8 +126,8 @@ Streamlit scouting platform ranking 20,000+ players across 36 leagues (men's and
 
 | Role | Company | Period |
 |---|---|---|
-| Python Production Engineer (Founder) | Orda Enterprise | Sep 2025 – Present |
-| Python Backend & ML Engineer | Freelance — Production Systems | 2022 – Present |
+| Full Stack Engineer (Founder) | Orda Enterprise | Sep 2025 – Present |
+| Full Stack Engineer | Freelance — Production Systems | 2022 – Present |
 | Product Owner / Full Stack Developer | Woods Air Movement, UK | Nov 2024 – Jun 2025 |
 | Full Stack Developer | Hoope, Nigeria | Jun 2024 – Nov 2024 |
 | Security Engineer (Contract) | Remote | Jun 2022 – Nov 2023 |
